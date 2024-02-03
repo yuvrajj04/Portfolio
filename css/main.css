@@ -1104,8 +1104,7 @@ header .top-bar {
     width: 100%;
     box-sizing: border-box;
     backdrop-filter: blur(10px); /* Adjust the blur value as needed */
-	border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;
+	
 }
 
 
